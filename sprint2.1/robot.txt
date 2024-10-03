@@ -1,0 +1,9 @@
+# Google Search Engine Robot
+# ==========================
+User-agent: Googlebot
+Allow: /*?h1
+Allow: /*?h2
+Allow: /*?h3
+Allow: /*?p
+
+Crawl-delay: 10
